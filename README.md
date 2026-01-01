@@ -15,15 +15,15 @@ The analysis focuses on customer demographics, service subscriptions, contract d
 
  📂 Dataset Information
 
-* Dataset Name**: Telco Customer Churn
-* File Type**: CSV
-* Total Records**: ~7,000 customers
-* Target Variable**: `Churn` (Yes / No)
+* Dataset Name: Telco Customer Churn
+* File Type: CSV
+* Total Records: ~7,000 customers
+* Target Variable: `Churn` (Yes / No)
 
-### 📌 Key Features in Dataset
+ 📌 Key Features in Dataset
 
-* Customer Demographics**: gender, SeniorCitizen, Partner, Dependents
-* Account Information**: tenure, Contract, PaperlessBilling, PaymentMethod
+* Customer Demographics: gender, SeniorCitizen, Partner, Dependents
+* Account Information: tenure, Contract, PaperlessBilling, PaymentMethod
 * Services Used:
     * PhoneService, MultipleLines
     * InternetService
@@ -31,7 +31,7 @@ The analysis focuses on customer demographics, service subscriptions, contract d
     * DeviceProtection, TechSupport
     * StreamingTV, StreamingMovies
 
-* Billing Details**:
+* Billing Details:
   * MonthlyCharges
   * TotalCharges
 
